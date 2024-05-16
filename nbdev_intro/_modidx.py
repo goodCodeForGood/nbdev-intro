@@ -5,4 +5,7 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://goodCodeForGood.github.io',
                 'git_url': 'https://github.com/goodCodeForGood/nbdev-intro',
                 'lib_path': 'nbdev_intro'},
-  'syms': {'nbdev_intro.core': {'nbdev_intro.core.foo': ('core.html#foo', 'nbdev_intro/core.py')}}}
+  'syms': { 'nbdev_intro.card': { 'nbdev_intro.card.foo': ('card.html#foo', 'nbdev_intro/card.py'),
+                                  'nbdev_intro.card.say_hello': ('card.html#say_hello', 'nbdev_intro/card.py')},
+            'nbdev_intro.core': { 'nbdev_intro.core.foo': ('core.html#foo', 'nbdev_intro/core.py'),
+                                  'nbdev_intro.core.say_hello': ('core.html#say_hello', 'nbdev_intro/core.py')}}}
