@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev-intro",
+    "section": "",
+    "text": "nbdev is a notebook-based development platform.\n\n\nPlease install the following package:\npip install nbdev_intro\n\n\n\nDo look at the card.html page for more examples of the Python code blocks\n\n1+1\n\n2",
+    "crumbs": [
+      "nbdev-intro"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev-intro",
+    "section": "",
+    "text": "Please install the following package:\npip install nbdev_intro",
+    "crumbs": [
+      "nbdev-intro"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev-intro",
+    "section": "",
+    "text": "Do look at the card.html page for more examples of the Python code blocks\n\n1+1\n\n2",
+    "crumbs": [
+      "nbdev-intro"
+    ]
+  },
+  {
+    "objectID": "card.html",
+    "href": "card.html",
+    "title": "card: A basic playing card (First notebook)",
+    "section": "",
+    "text": "source\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody\n\nsay_hello(\"Isaac\")\n\n'Hello Isaac!'\n\n\n\nassert say_hello(\"Hamel\") == \"Hello Hamel!\"\n\n\nsource\n\n\nfoo\n\n foo ()\n\n\ndisplay(SVG('&lt;svg height=\"100\" xmlns=\"http://www.w3.org/2000/svg\"&gt;&lt;circle cx=\"50\" cy=\"50\" r=\"40\"/&gt;&lt;/svg&gt;'))",
+    "crumbs": [
+      "card: A basic playing card (First notebook)"
+    ]
+  }
+]
